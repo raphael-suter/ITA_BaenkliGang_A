@@ -14,7 +14,7 @@ import { Ionicons } from "@expo/vector-icons";
 
 const styles = StyleSheet.create({
   headerButton: { marginRight: 15 },
-  container: { flex: 1, alignItems: "center" },
+  container: { flex: 1 },
   listItem: { margin: 18, marginBottom: 0 },
   image: { width: "100%" },
   ratingBar: {
@@ -25,7 +25,7 @@ const styles = StyleSheet.create({
     alignSelf: "flex-end",
   },
   star: { marginRight: 5 },
-  error: { marginTop: 36 },
+  error: { marginTop: 36, textAlign: "center" },
   fab: { backgroundColor: "tomato" },
 });
 

@@ -6,11 +6,11 @@ BaenkliGang
 
 ##Screenshots
 
-![](Screenshot_20210303-110323.png)
-![](Screenshot_20210303-110329.png)
-![](Screenshot_20210303-110641.png)
-![](Screenshot_20210303-110649.png)
-![](Screenshot_20210303-110701.png)
+![](Bilder/Screenshot_20210303-110323.png)
+![](Bilder/Screenshot_20210303-110329.png)
+![](Bilder/Screenshot_20210303-110641.png)
+![](Bilder/Screenshot_20210303-110649.png)
+![](Bilder/Screenshot_20210303-110701.png)
 
 ##Beschreibung
 
